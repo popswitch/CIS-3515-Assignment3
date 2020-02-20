@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BackgroundChanger</string>
+    <string-array name ="colors">
+        <item>Blue</item>
+        <item>Blue</item>
+        <item>Blue</item>
+        <item>Blue</item>
+        <item>Blue</item>
+        <item>Blue</item>
+        <item>Blue</item>
+        <item>Blue</item>
+        <item>Blue</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
